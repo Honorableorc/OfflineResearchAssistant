@@ -1,0 +1,17 @@
+gradio
+chromadb
+sentence-transformers
+transformers
+huggingface-hub
+torch
+pypdf
+rank-bm25
+llama-cpp-python
+numpy
+langchain
+langchain-community
+python-dotenv
+tqdm
+scikit-learn
+pandas
+
